@@ -1,4 +1,3 @@
 google.com, pub-4115613857611227, DIRECT, f08c47fec0942fa0
 facebook.com, 669319577466554, DIRECT, c3e20eee3f780d68
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4115613857611227"
-     crossorigin="anonymous"></script>
+google.com, pub-4115613857611227, DIRECT, f08c47fec0942fa0
